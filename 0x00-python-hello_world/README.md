@@ -8,3 +8,4 @@ Task6-Complete this source code to print Welcome to Holberton School!
 Task7-Complete this source code
 Task8-Complete this source code to print object-oriented programming with Python, followed by a new line.
 Task9-Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+Task10-Write a function in C that checks if a singly linked list has a cycle in it.
