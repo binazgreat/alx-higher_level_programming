@@ -11,3 +11,4 @@ Task9-Write a Python script that prints “The Zen of Python”, by TimPeters, f
 Task10-
 Task11-Write a function in C that checks if a singly linked list has a cycle in iti Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
 Task12-Compile
+Task12-Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
