@@ -5,3 +5,4 @@ Task3-Write a program that prints the ASCII alphabet, in lowercase, not followed
 Task4-Write a program that prints all numbers from 0 to 98 in decimal and in hexadecimal
 Task5-Write a program that prints numbers from 0 to 99.
 Task6-Write a program that prints all possible different combinations of two digits.
+Task7-Write a function that checks for lowercase character.
