@@ -14,3 +14,4 @@ Task12-Write a function that prints the numbers from 1 to 100 separated by a spa
 Task13-Technical Interview task
 Task14-ASCII alphabet in reverse order
 Task15-Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
+Task16-Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode:
