@@ -13,3 +13,4 @@ Task11-Write a function that computes a to the power of b and return the value.
 Task12-Write a function that prints the numbers from 1 to 100 separated by a space.
 Task13-Technical Interview task
 Task14-ASCII alphabet in reverse order
+Task15-Write a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
