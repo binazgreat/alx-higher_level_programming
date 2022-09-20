@@ -9,3 +9,4 @@ Task7-Write a function that checks for lowercase character.
 Task8-Write a function that prints a string in uppercase followed by a new line.
 Task9-Write a function that prints the last digit of a number.
 Task10-Write a function that adds two integers and returns the result.
+Task11-Write a function that computes a to the power of b and return the value.
