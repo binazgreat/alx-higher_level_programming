@@ -1,0 +1,2 @@
+Python-Data structure: Lists, Tuples
+Task0-Write a function that prints all integers of a list.
