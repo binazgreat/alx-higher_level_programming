@@ -8,3 +8,4 @@ Task5-Write a function that removes all characters c and C from a string.
 Task6-Write a function that prints a matrix of integers.
 Task7-Write a function that adds 2 tuples.
 Task8-Write a function that returns a tuple with the length of a string and its first character.
+Task9-Write a function that finds the biggest integer of a list.
