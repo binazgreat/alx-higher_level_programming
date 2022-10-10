@@ -8,3 +8,4 @@ Task 6 - Write a function that raises type exception.
 Task 7 - Write a function that raises a name exception with a message.
 Task 8 - Write a function that prints an integer.
 Task 9 - Write a function that executes a function safely
+Task 10 - Write the Python function def magic_calculation(a, b): that does exactly the same as the given code.
