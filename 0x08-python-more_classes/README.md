@@ -5,3 +5,4 @@ Task 2 - Write a class Rectangle that defines a rectangle by: (based on 1-rectan
 Task 3 - Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py).
 Task 4 - Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py).
 Task 5 - Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py).
+Task 6 - Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py).
