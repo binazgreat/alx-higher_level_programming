@@ -8,3 +8,4 @@
 6. Write a function that creates an Object from a “JSON file”.
 7. Write a script that adds all arguments to a Python list, and then save them to a file.
 8. Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object.
+9. Write a class Student that defines a student by.
